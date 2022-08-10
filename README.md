@@ -9,9 +9,15 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 * June Findings:
 From the data collected, we can see that there are very few instances of weather dipping below seventy degrees, with the majority hovering around 75° and up into the low 80s.  This is a great result for a potential business as the weather won't be prohibitively cold or too hot for potential customers.
 
+![June Temperature summary statistics](https://user-images.githubusercontent.com/107294123/183791252-b6a0ea3b-1369-40bf-a71b-8f9524464f2b.png)    ![June Temperatures](https://user-images.githubusercontent.com/107294123/183791270-f24f7fe7-3277-4e12-95e3-2f87aef25724.png)
+
+
 * December Findings:
 While December shows a lower median of 71° and rarely reaches higher temperatures of 80°, the weather is still extremely temperate and shows very little data dropping below the low 60s.  For many tourists, this is still considered balmy weather for winter and once again, will not be a prohibitive factor in opening a shop in Oahu.
- 
+
+![December Temperature summary statistics](https://user-images.githubusercontent.com/107294123/183791307-55e8e407-934d-4f3f-955a-88c9affbed6d.png)    ![December Temperatures](https://user-images.githubusercontent.com/107294123/183791323-aff8d72c-e44e-4327-b8d8-4d12da8aa099.png)
+
+
 * Major Differences:
 The only variables that may have an impact on day-to-day business lies in the wider variance of highs and lows between the two months.  June has a variance of 21 degrees, ranging from 64° to 85°, while December has a wider margin of 27 degrees, ranging from 56° to 83°.  That day to day inconsistency would have to be carefully planned for in terms of purchasing perishables for resale and staff scheduling.
 
